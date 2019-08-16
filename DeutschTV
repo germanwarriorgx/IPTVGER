@@ -1,531 +1,457 @@
 #EXTM3U
-#EXTINF:-1,DE | Das Erste HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11318.m3u8
-#EXTINF:-1,DE | ZDF HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11319.m3u8
-#EXTINF:-1,DE | Sat.1 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7101.m3u8
-#EXTINF:-1,DE | Sat.1 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7100.m3u8
-#EXTINF:-1,DE | RTL HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7107.m3u8
-#EXTINF:-1,DE | RTL HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7106.m3u8
-#EXTINF:-1,DE | RTL 2 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7105.m3u8
-#EXTINF:-1,DE | RTL 2 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7104.m3u8
-#EXTINF:-1,DE | ProSieben HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7103.m3u8
-#EXTINF:-1,DE | ProSieben HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/25140.m3u8
-#EXTINF:-1,DE | Kabel eins HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7095.m3u8
-#EXTINF:-1,DE | Kabel eins HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7094.m3u8
-#EXTINF:-1,DE | VOX HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7099.m3u8
-#EXTINF:-1,DE | VOX HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7098.m3u8
-#EXTINF:-1,DE | Sixx HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7097.m3u8
-#EXTINF:-1,DE | Sixx HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7096.m3u8
-#EXTINF:-1,DE | Comedy Central HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7180.m3u8
-#EXTINF:-1,DE | Comedy Central HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/25259.m3u8
-#EXTINF:-1,#####[ SPARTENSENDER ]#####
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7126.m3u8
-#EXTINF:-1,DE | RTL Passion HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11320.m3u8
-#EXTINF:-1,DE | RTL Passion HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7122.m3u8
-#EXTINF:-1,DE | RTL Crime HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/13104.m3u8
-#EXTINF:-1,DE | RTL Crime HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/25260.m3u8
-#EXTINF:-1,DE | RTL Living HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/25375.m3u8
-#EXTINF:-1,DE | RTL Living HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7121.m3u8
-#EXTINF:-1,DE | Nitro HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7125.m3u8
-#EXTINF:-1,DE | Nitro HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7124.m3u8
-#EXTINF:-1,DE | RTLplus HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7120.m3u8
-#EXTINF:-1,DE | ProSieben Maxx HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7119.m3u8
-#EXTINF:-1,DE | ProSieben Maxx HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/21209.m3u8
-#EXTINF:-1,DE | ProSieben Fun HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7117.m3u8
-#EXTINF:-1,DE | ProSieben Fun HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7116.m3u8
-#EXTINF:-1,DE | Kabel eins Classics HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22643.m3u8
-#EXTINF:-1,DE | Sat.1 Emotions HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/24737.m3u8
-#EXTINF:-1,DE | Sat.1 Gold HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7113.m3u8
-#EXTINF:-1,DE | Sat.1 Gold HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/25261.m3u8
-#EXTINF:-1,DE | TELE 5 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7272.m3u8
-#EXTINF:-1,DE | 3sat HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7181.m3u8
-#EXTINF:-1,DE | Servus TV HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/13108.m3u8
-#EXTINF:-1,DE | One HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/12584.m3u8
-#EXTINF:-1,DE | ZDFneo HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7270.m3u8
-#EXTINF:-1,#####[ REGIONAL ]#####
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7279.m3u8
-#EXTINF:-1,DE | SWR HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7275.m3u8
-#EXTINF:-1,DE | MDR HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7277.m3u8
-#EXTINF:-1,DE | NDR HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7278.m3u8
-#EXTINF:-1,DE | WDR HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/12661.m3u8
-#EXTINF:-1,DE | RBB HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7276.m3u8
-#EXTINF:-1,DE | HR HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7273.m3u8
-#EXTINF:-1,DE | BR HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7274.m3u8
-#EXTINF:-1,DE | SR HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/12662.m3u8
-#EXTINF:-1,#####[ KIDS ]#####
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7154.m3u8
-#EXTINF:-1,DE | Nickelodeon
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7152.m3u8
-#EXTINF:-1,DE | Nickelodeon HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/18919.m3u8
-#EXTINF:-1,DE | Cartoon Network
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7141.m3u8
-#EXTINF:-1,DE | Boomerang
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7142.m3u8
-#EXTINF:-1,DE | Disney Channel HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11317.m3u8
-#EXTINF:-1,DE | Disney Channel HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7147.m3u8
-#EXTINF:-1,DE | Disney Cinematic HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/24738.m3u8
-#EXTINF:-1,DE | Disney Cinematic HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11316.m3u8
-#EXTINF:-1,DE | Disney Junior HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11479.m3u8
-#EXTINF:-1,DE | Disney Junior HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/24739.m3u8
-#EXTINF:-1,DE | Disney XD HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11480.m3u8
-#EXTINF:-1,DE | Toggo Plus HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7145.m3u8
-#EXTINF:-1,DE | Toggo Plus HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7143.m3u8
-#EXTINF:-1,DE | KiKa HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7144.m3u8
-#EXTINF:-1,DE | Junior
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/24740.m3u8
-#EXTINF:-1,#####[ DOKU-NEWS-KULTUR ]#####
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7179.m3u8
-#EXTINF:-1,DE | Animal Planet
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7172.m3u8
-#EXTINF:-1,DE | Nat Geo Wild HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7170.m3u8
-#EXTINF:-1,DE | Nat Geo Wild HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/27148.m3u8
-#EXTINF:-1,DE | Nat Geo HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7169.m3u8
-#EXTINF:-1,DE | Nat Geo HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/27149.m3u8
-#EXTINF:-1,DE | Planet HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7167.m3u8
-#EXTINF:-1,DE | Discovery Channel HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7173.m3u8
-#EXTINF:-1,DE | Discovery Channel HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/27151.m3u8
-#EXTINF:-1,DE | History HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7168.m3u8
-#EXTINF:-1,DE | History HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/27150.m3u8
-#EXTINF:-1,DE | Spiegel TV Geschichte
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7155.m3u8
-#EXTINF:-1,DE | Spiegel Geschichte HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/27152.m3u8
-#EXTINF:-1,DE | Spiegel TV Wissen
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7174.m3u8
-#EXTINF:-1,DE | Kabel eins Doku
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7166.m3u8
-#EXTINF:-1,DE | Phoenix HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7157.m3u8
-#EXTINF:-1,DE | ZDF Info HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7159.m3u8
-#EXTINF:-1,DE | N24 Doku
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/16064.m3u8
-#EXTINF:-1,DE | Welt HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7162.m3u8
-#EXTINF:-1,DE | n-tv HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7164.m3u8
-#EXTINF:-1,DE | Tagesschau 24 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7161.m3u8
-#EXTINF:-1,DE | A&E HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7176.m3u8
-#EXTINF:-1,DE | DMAX HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/13099.m3u8
-#EXTINF:-1,DE | TLC
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7280.m3u8
-#EXTINF:-1,DE | E! HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/13100.m3u8
-#EXTINF:-1,DE | Arte HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7156.m3u8
-#EXTINF:-1,#####[ SKY DE ]#####
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/12585.m3u8
-#EXTINF:-1,DE | Sky 1
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/24765.m3u8
-#EXTINF:-1,DE | Sky 1 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7077.m3u8
-#EXTINF:-1,DE | Sky Cinema HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7091.m3u8
-#EXTINF:-1,DE | Sky Cinema HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7092.m3u8
-#EXTINF:-1,DE | Sky Cinema +1 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7089.m3u8
-#EXTINF:-1,DE | Sky Cinema  +1 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7090.m3u8
-#EXTINF:-1,DE | Sky Cinema  +24 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7087.m3u8
-#EXTINF:-1,DE | Sky Cinema  +24 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7088.m3u8
-#EXTINF:-1,DE | Sky Cinema Family HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7079.m3u8
-#EXTINF:-1,DE | Sky Cinema Family HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7078.m3u8
-#EXTINF:-1,DE | Sky Cinema Hits HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7085.m3u8
-#EXTINF:-1,DE | Sky Cinema Hits HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7086.m3u8
-#EXTINF:-1,DE | Sky Action HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7082.m3u8
-#EXTINF:-1,DE | Sky Action HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11477.m3u8
-#EXTINF:-1,DE | Sky Comedy
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7084.m3u8
-#EXTINF:-1,DE | Sky Emotion
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7081.m3u8
-#EXTINF:-1,DE | Sky Nostalgie
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7080.m3u8
-#EXTINF:-1,DE | Sky Krimi
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7062.m3u8
-#EXTINF:-1,DE | Sky Atlantic HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7075.m3u8
-#EXTINF:-1,DE | Sky Atlantic HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7076.m3u8
-#EXTINF:-1,DE | FOX HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7068.m3u8
-#EXTINF:-1,DE | FOX HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7069.m3u8
-#EXTINF:-1,DE | TNT Comedy HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7059.m3u8
-#EXTINF:-1,DE | TNT Comedy HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/10201.m3u8
-#EXTINF:-1,DE | TNT Serie HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7060.m3u8
-#EXTINF:-1,DE | TNT Serie HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11402.m3u8
-#EXTINF:-1,DE | TNT Film HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7074.m3u8
-#EXTINF:-1,DE | TNT Film HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7073.m3u8
-#EXTINF:-1,DE | Universal TV HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7065.m3u8
-#EXTINF:-1,DE | Universal TV HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/20435.m3u8
-#EXTINF:-1,DE | 13th Street HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7070.m3u8
-#EXTINF:-1,DE | 13th Street HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7071.m3u8
-#EXTINF:-1,DE | Sony Channel HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7064.m3u8
-#EXTINF:-1,DE | Kinowelt TV
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7072.m3u8
-#EXTINF:-1,DE | Silverline
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7058.m3u8
-#EXTINF:-1,DE | AXN HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7063.m3u8
-#EXTINF:-1,DE | SYFY HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7066.m3u8
-#EXTINF:-1,DE | Zee One
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7055.m3u8
-#EXTINF:-1,DE | Romance TV
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7057.m3u8
-#EXTINF:-1,DE | Heimatkanal
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7056.m3u8
-#EXTINF:-1,#####[ SKY SELECT ]#####
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/20926.m3u8
-#EXTINF:-1,DE | Sky Select 1 HD (Spider-Man: A New Universe)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/9980.m3u8
-#EXTINF:-1,DE | Sky Select 2 HD (Mortal Engines: Krieg der Städte)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/9979.m3u8
-#EXTINF:-1,DE | Sky Select 3 HD (Unknown User: Dark Web)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/9978.m3u8
-#EXTINF:-1,DE | Sky Select 4 HD (Der Vorname)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/9977.m3u8
-#EXTINF:-1,DE | Sky Select 5 HD (Phantastische Tierwesen: Grindelwalds Verbrechen)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/9976.m3u8
-#EXTINF:-1,DE | Sky Select 6 HD (Der Grinch)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/9975.m3u8
-#EXTINF:-1,DE | Sky Select 7 HD (Bohemian Rhapsody)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/9974.m3u8
-#EXTINF:-1,DE | Sky Select 8 HD (Mila und Ruslan)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/9973.m3u8
-#EXTINF:-1,#####[ SPORT ]#####
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/12586.m3u8
-#EXTINF:-1,DE | DAZN Bar 1 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/13086.m3u8
-#EXTINF:-1,DE | DAZN Bar 1 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/10716.m3u8
-#EXTINF:-1,DE | DAZN Bar 2 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/13085.m3u8
-#EXTINF:-1,DE | DAZN Bar 2 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/10717.m3u8
-#EXTINF:-1,DE | Eurosport 1 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7200.m3u8
-#EXTINF:-1,DE | Eurosport 2 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7199.m3u8
-#EXTINF:-1,DE | Eurosport 2Xtra HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7198.m3u8
-#EXTINF:-1,DE | Eurosport 2Xtra HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7197.m3u8
-#EXTINF:-1,DE | Sport Digital HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7201.m3u8
-#EXTINF:-1,DE | Sport 1
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/12403.m3u8
-#EXTINF:-1,DE | Sport 1 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7204.m3u8
-#EXTINF:-1,DE | eSports1 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7202.m3u8
-#EXTINF:-1,DE | FC Bayern TV HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7196.m3u8
-#EXTINF:-1,DE | Auto Motor Sport HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7195.m3u8
-#EXTINF:-1,DE | Motorvision TV HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/16619.m3u8
-#EXTINF:-1,DE | Sport Fight (ONLY ON FIGHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7268.m3u8
-#EXTINF:-1,#####[ SKY SPORT ]#####
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7227.m3u8
-#EXTINF:-1,DE | SKY Sport Austria HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7151.m3u8
-#EXTINF:-1,DE | Sky Sport News HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7226.m3u8
-#EXTINF:-1,DE | Sky Sport News HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/20434.m3u8
-#EXTINF:-1,DE | Sky Sport 1 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7225.m3u8
-#EXTINF:-1,DE | Sky Sport 1 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7215.m3u8
-#EXTINF:-1,DE | Sky Sport 2 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7224.m3u8
-#EXTINF:-1,DE | Sky Sport 2 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7214.m3u8
-#EXTINF:-1,DE | Sky Sport 3 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7223.m3u8
-#EXTINF:-1,DE | Sky Sport 3 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11314.m3u8
-#EXTINF:-1,DE | Sky Sport 4 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7222.m3u8
-#EXTINF:-1,DE | Sky Sport 4 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11313.m3u8
-#EXTINF:-1,DE | Sky Sport 5 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7221.m3u8
-#EXTINF:-1,DE | Sky Sport 5 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11312.m3u8
-#EXTINF:-1,DE | Sky Sport 6 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7220.m3u8
-#EXTINF:-1,DE | Sky Sport 6 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11311.m3u8
-#EXTINF:-1,DE | Sky Sport 7 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7219.m3u8
-#EXTINF:-1,DE | Sky Sport 7 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11310.m3u8
-#EXTINF:-1,DE | Sky Sport 8 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7218.m3u8
-#EXTINF:-1,DE | Sky Sport 8 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11308.m3u8
-#EXTINF:-1,DE | Sky Sport 9 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7217.m3u8
-#EXTINF:-1,DE | Sky Sport 9 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11307.m3u8
-#EXTINF:-1,DE | Sky Sport 10 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7216.m3u8
-#EXTINF:-1,DE | Sky Sport 10 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11309.m3u8
-#EXTINF:-1,#####[ SKY BUNDESLIGA ]#####
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7248.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 1 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7247.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 1 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7237.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 2 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7246.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 2 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7236.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 3 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7245.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 3 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7235.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 4 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7244.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 4 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7234.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 5 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7243.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 5 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7233.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 6 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7242.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 6 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7232.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 7 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7241.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 7 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7231.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 8 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7240.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 8 HD+
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7230.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 9 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11245.m3u8
-#EXTINF:-1,DE | Sky Bundesliga 10 HD
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11246.m3u8
-#EXTINF:-1,#####[ DEUTSCHE TELEKOM ]#####
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7269.m3u8
-#EXTINF:-1,DE | 3. Bundesliga 1 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7256.m3u8
-#EXTINF:-1,DE | 3. Bundesliga 2 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7255.m3u8
-#EXTINF:-1,DE | 3. Bundesliga 3 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7254.m3u8
-#EXTINF:-1,DE | 3. Bundesliga 4 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7253.m3u8
-#EXTINF:-1,DE | 3. Bundesliga 5 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7252.m3u8
-#EXTINF:-1,DE | 3. Bundesliga 6 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7251.m3u8
-#EXTINF:-1,DE | 3. Bundesliga 7 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7250.m3u8
-#EXTINF:-1,DE | 3. Bundesliga 8 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7249.m3u8
-#EXTINF:-1,DE | BBL Sport 1 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7260.m3u8
-#EXTINF:-1,DE | BBL Sport 2 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7259.m3u8
-#EXTINF:-1,DE | BBL Sport 3 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7258.m3u8
-#EXTINF:-1,DE | BBL Sport 4 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7257.m3u8
-#EXTINF:-1,DE | BBL Sport 5 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11327.m3u8
-#EXTINF:-1,DE | BBL Sport 6 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11326.m3u8
-#EXTINF:-1,DE | BBL Sport 7 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11325.m3u8
-#EXTINF:-1,DE | BBL Sport 8 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11324.m3u8
-#EXTINF:-1,DE | BBL Sport 9 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/11323.m3u8
-#EXTINF:-1,DE | DEL Sport 1 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7267.m3u8
-#EXTINF:-1,DE | DEL Sport 2 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7266.m3u8
-#EXTINF:-1,DE | DEL Sport 3 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7265.m3u8
-#EXTINF:-1,DE | DEL Sport 4 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7264.m3u8
-#EXTINF:-1,DE | DEL Sport 5 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7263.m3u8
-#EXTINF:-1,DE | DEL Sport 6 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7262.m3u8
-#EXTINF:-1,DE | DEL Sport 7 (ONLY ON MATCHDAY)
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/7261.m3u8
-#EXTINF:-1,DE | 2 Broke Girls 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/18456.m3u8
-#EXTINF:-1,DE | Alle hassen Chris 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/23843.m3u8
-#EXTINF:-1,DE | Alvinnn und die Chipmunks 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17794.m3u8
-#EXTINF:-1,DE | Art Attack 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/18410.m3u8
-#EXTINF:-1,DE | Beat Bugs 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17796.m3u8
-#EXTINF:-1,DE | Bob's Burger 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17921.m3u8
-#EXTINF:-1,DE | Bojack Horseman 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17922.m3u8
-#EXTINF:-1,DE | Burn Notice 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/26748.m3u8
-#EXTINF:-1,DE | Chip und Chap 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17797.m3u8
-#EXTINF:-1,DE | Die Simpsons 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17798.m3u8
-#EXTINF:-1,DE | Doug 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17799.m3u8
-#EXTINF:-1,DE | Dragonball 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22101.m3u8
-#EXTINF:-1,DE | Dragonball GT 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22167.m3u8
-#EXTINF:-1,DE | Drawn Together 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/25166.m3u8
-#EXTINF:-1,DE | Ducktales 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17800.m3u8
-#EXTINF:-1,DE | Family Guy 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17801.m3u8
-#EXTINF:-1,DE | Happy Tree Friends 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/25167.m3u8
-#EXTINF:-1,DE | How I Met Your Mother 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22591.m3u8
-#EXTINF:-1,DE | King of Queens 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22590.m3u8
-#EXTINF:-1,DE | Law and Order 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/26747.m3u8
-#EXTINF:-1,DE | Malcom Mittendrin 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22593.m3u8
-#EXTINF:-1,DE | Mascha und der Bär 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/18409.m3u8
-#EXTINF:-1,DE | Mickymaus Wunderhaus 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/18457.m3u8
-#EXTINF:-1,DE | Miraculous 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17802.m3u8
-#EXTINF:-1,DE | My Name is Earl 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22594.m3u8
-#EXTINF:-1,DE | Navy CIS 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/25168.m3u8
-#EXTINF:-1,DE | One Piece 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22592.m3u8
-#EXTINF:-1,DE | PJ Masks 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/18458.m3u8
-#EXTINF:-1,DE | Peppa Pig 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/18408.m3u8
-#EXTINF:-1,DE | Pepper Ann 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17803.m3u8
-#EXTINF:-1,DE | Pinky und der Brain 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17804.m3u8
-#EXTINF:-1,DE | Southpark 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22103.m3u8
-#EXTINF:-1,DE | Spongebob 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17805.m3u8
-#EXTINF:-1,DE | The Big Bang Theory 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22637.m3u8
-#EXTINF:-1,DE | The Middle 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/24009.m3u8
-#EXTINF:-1,DE | Tom und Jerry 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17806.m3u8
-#EXTINF:-1,DE | Two and a half Men 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/22638.m3u8
-#EXTINF:-1,DE | Ugly Americans 24/7
-http://boom-tv.de:20018/live/qy7TPAohuD/PgUTmJohAj/17923.m3u8
+#EXTINF:-1,DE: SKY SELECT 1 4K
+http://yek-hd.net:1795/02042019/02042019/41588
+#EXTINF:-1,DE: SKY SELECT 2 4K
+http://yek-hd.net:1795/02042019/02042019/41589
+#EXTINF:-1,DE: SKY SELECT 3 4K
+http://yek-hd.net:1795/02042019/02042019/41590
+#EXTINF:-1,DE: SKY SELECT 4 4K
+http://yek-hd.net:1795/02042019/02042019/41591
+#EXTINF:-1,DE: 13th Street FHD
+http://yek-hd.net:1795/02042019/02042019/25063
+#EXTINF:-1,DE: AXN HD
+http://yek-hd.net:1795/02042019/02042019/25058
+#EXTINF:-1,DE: COMEDY CENTRAL
+http://yek-hd.net:1795/02042019/02042019/25028
+#EXTINF:-1,DE: FOX HD
+http://yek-hd.net:1795/02042019/02042019/25055
+#EXTINF:-1,DE: Sony HD
+http://yek-hd.net:1795/02042019/02042019/25052
+#EXTINF:-1,DE: SYFY
+http://yek-hd.net:1795/02042019/02042019/25054
+#EXTINF:-1,DE: TNT Comedy HD
+http://yek-hd.net:1795/02042019/02042019/25059
+#EXTINF:-1,DE: TNT Film HD
+http://yek-hd.net:1795/02042019/02042019/25061
+#EXTINF:-1,DE: TNT Serie HD
+http://yek-hd.net:1795/02042019/02042019/25060
+#EXTINF:-1,DE: COMEDY CENTRAL EXTRA HD
+http://yek-hd.net:1795/02042019/02042019/24873
+#EXTINF:-1,DE: KINO WELT TV HD
+http://yek-hd.net:1795/02042019/02042019/25045
+#EXTINF:-1,DE: Romance TV HD
+http://yek-hd.net:1795/02042019/02042019/25053
+#EXTINF:-1,DE: 3Sat HD
+http://yek-hd.net:1795/02042019/02042019/24923
+#EXTINF:-1,DE: Allgäu TV
+http://yek-hd.net:1795/02042019/02042019/24895
+#EXTINF:-1,DE: Animal Planet HD
+http://yek-hd.net:1795/02042019/02042019/25112
+#EXTINF:-1,DE: ARD Alpha HD
+http://yek-hd.net:1795/02042019/02042019/24935
+#EXTINF:-1,DE: Ard HD
+http://yek-hd.net:1795/02042019/02042019/24936
+#EXTINF:-1,DE: Arte
+http://yek-hd.net:1795/02042019/02042019/24922
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://yek-hd.net:1795/02042019/02042019/24950
+#EXTINF:-1,DE: Baby TV
+http://yek-hd.net:1795/02042019/02042019/25096
+#EXTINF:-1,DE: Boomerang
+http://yek-hd.net:1795/02042019/02042019/25089
+#EXTINF:-1,DE: BR Fernsehen HD
+http://yek-hd.net:1795/02042019/02042019/24928
+#EXTINF:-1,DE: Classica HD
+http://yek-hd.net:1795/02042019/02042019/24874
+#EXTINF:-1,DE: Das Erste HD
+http://yek-hd.net:1795/02042019/02042019/24937
+#EXTINF:-1,DE: DAZN 1 HD
+http://yek-hd.net:1795/02042019/02042019/24968
+#EXTINF:-1,DE: Dazn Sport 2 HD
+http://yek-hd.net:1795/02042019/02042019/24967
+#EXTINF:-1,DE: Deluxe Music HD
+http://yek-hd.net:1795/02042019/02042019/25105
+#EXTINF:-1,DE: Discovery Channel HD
+http://yek-hd.net:1795/02042019/02042019/25115
+#EXTINF:-1,DE: Disney Channel
+http://yek-hd.net:1795/02042019/02042019/25095
+#EXTINF:-1,DE: Disney Cinemagic
+http://yek-hd.net:1795/02042019/02042019/25094
+#EXTINF:-1,DE: Disney Junior
+http://yek-hd.net:1795/02042019/02042019/25093
+#EXTINF:-1,DE: Disney XD
+http://yek-hd.net:1795/02042019/02042019/25092
+#EXTINF:-1,DE: E! HD
+http://yek-hd.net:1795/02042019/02042019/24881
+#EXTINF:-1,DE: Eagle Cinema Abenteuer HD
+http://yek-hd.net:1795/02042019/02042019/25071
+#EXTINF:-1,DE: Eagle Cinema Aktion HD
+http://yek-hd.net:1795/02042019/02042019/25075
+#EXTINF:-1,DE: Eagle Cinema Animation HD
+http://yek-hd.net:1795/02042019/02042019/25073
+#EXTINF:-1,DE: Eagle Cinema Drama HD
+http://yek-hd.net:1795/02042019/02042019/25072
+#EXTINF:-1,DE: Eagle Cinema Geschichte HD
+http://yek-hd.net:1795/02042019/02042019/25067
+#EXTINF:-1,DE: Eagle Cinema Horror HD
+http://yek-hd.net:1795/02042019/02042019/25070
+#EXTINF:-1,DE: Eagle Cinema KINOSAAL (GERINGE QUALITÄT)
+http://yek-hd.net:1795/02042019/02042019/25064
+#EXTINF:-1,DE: Eagle Cinema Komodie HD
+http://yek-hd.net:1795/02042019/02042019/25069
+#EXTINF:-1,DE: Eagle Cinema Lächeln HD
+http://yek-hd.net:1795/02042019/02042019/25068
+#EXTINF:-1,DE: Eagle Cinema Premiere HD
+http://yek-hd.net:1795/02042019/02042019/25076
+#EXTINF:-1,DE: Eagle Cinema Romantisch HD
+http://yek-hd.net:1795/02042019/02042019/25066
+#EXTINF:-1,DE: Eagle Cinema Sci-Fi HD
+http://yek-hd.net:1795/02042019/02042019/25074
+#EXTINF:-1,DE: Eagle Cinema Thriller HD
+http://yek-hd.net:1795/02042019/02042019/25065
+#EXTINF:-1,DE: Euronews
+http://yek-hd.net:1795/02042019/02042019/24868
+#EXTINF:-1,DE: Europort 2 Xtra FHD
+http://yek-hd.net:1795/02042019/02042019/24867
+#EXTINF:-1,DE: Eurosport 1 HD
+http://yek-hd.net:1795/02042019/02042019/24948
+#EXTINF:-1,DE: Eurosport 2 HD
+http://yek-hd.net:1795/02042019/02042019/24947
+#EXTINF:-1,DE: Eurosport 2 HD XTRA
+http://yek-hd.net:1795/02042019/02042019/24946
+#EXTINF:-1,DE: EWTN katholisches TV
+http://yek-hd.net:1795/02042019/02042019/24866
+#EXTINF:-1,DE: FC BAYERN TV HD
+http://yek-hd.net:1795/02042019/02042019/24951
+#EXTINF:-1,DE: Film Club 3 HD
+http://yek-hd.net:1795/02042019/02042019/25025
+#EXTINF:-1,DE: Film Club 4 HD
+http://yek-hd.net:1795/02042019/02042019/25024
+#EXTINF:-1,DE: Film Club 5 HD
+http://yek-hd.net:1795/02042019/02042019/25023
+#EXTINF:-1,DE: FIX and FOXI
+http://yek-hd.net:1795/02042019/02042019/25085
+#EXTINF:-1,DE: GO TV
+http://yek-hd.net:1795/02042019/02042019/25100
+#EXTINF:-1,DE: HALLE HD
+http://yek-hd.net:1795/02042019/02042019/24864
+#EXTINF:-1,DE: Health TV HD
+http://yek-hd.net:1795/02042019/02042019/25122
+#EXTINF:-1,DE: Heimat kanal
+http://yek-hd.net:1795/02042019/02042019/24863
+#EXTINF:-1,DE: History Channel
+http://yek-hd.net:1795/02042019/02042019/25114
+#EXTINF:-1,DE: History Channel HD
+http://yek-hd.net:1795/02042019/02042019/24862
+#EXTINF:-1,DE: HR Fernsehen HD
+http://yek-hd.net:1795/02042019/02042019/24861
+#EXTINF:-1,DE: Jukebox
+http://yek-hd.net:1795/02042019/02042019/25104
+#EXTINF:-1,DE: Junior HD
+http://yek-hd.net:1795/02042019/02042019/25091
+#EXTINF:-1,DE: JUWELO HD
+http://yek-hd.net:1795/02042019/02042019/24856
+#EXTINF:-1,DE: Kabel 1  HD
+http://yek-hd.net:1795/02042019/02042019/24901
+#EXTINF:-1,DE: Kabel 1 Classic HD
+http://yek-hd.net:1795/02042019/02042019/24900
+#EXTINF:-1,DE: Kabel 1 Doku
+http://yek-hd.net:1795/02042019/02042019/24899
+#EXTINF:-1,DE: KIKA HD
+http://yek-hd.net:1795/02042019/02042019/25097
+#EXTINF:-1,DE: MDR HD
+http://yek-hd.net:1795/02042019/02042019/24889
+#EXTINF:-1,DE: Motorvision HD
+http://yek-hd.net:1795/02042019/02042019/24949
+#EXTINF:-1,DE: MOVIESINEMA 1 HD
+http://yek-hd.net:1795/02042019/02042019/25040
+#EXTINF:-1,DE: MOVIESINEMA 2 HD
+http://yek-hd.net:1795/02042019/02042019/25039
+#EXTINF:-1,DE: MOVIESINEMA 3 HD
+http://yek-hd.net:1795/02042019/02042019/25038
+#EXTINF:-1,DE: MOVIESINEMA 4 HD
+http://yek-hd.net:1795/02042019/02042019/25037
+#EXTINF:-1,DE: MOVIESINEMA 5 HD
+http://yek-hd.net:1795/02042019/02042019/25036
+#EXTINF:-1,DE: MR. BEAN
+http://yek-hd.net:1795/02042019/02042019/25084
+#EXTINF:-1,DE: MTV Germany
+http://yek-hd.net:1795/02042019/02042019/25106
+#EXTINF:-1,DE: MTV HD
+http://yek-hd.net:1795/02042019/02042019/25107
+#EXTINF:-1,DE: MUNCHEN TV
+http://yek-hd.net:1795/02042019/02042019/24853
+#EXTINF:-1,DE: N-TV
+http://yek-hd.net:1795/02042019/02042019/24890
+#EXTINF:-1,DE: N24 Doku
+http://yek-hd.net:1795/02042019/02042019/25126
+#EXTINF:-1,DE: NAT GEO HD
+http://yek-hd.net:1795/02042019/02042019/25110
+#EXTINF:-1,DE: Nat Geo Wild  HD
+http://yek-hd.net:1795/02042019/02042019/25117
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://yek-hd.net:1795/02042019/02042019/25108
+#EXTINF:-1,DE: National Geographic
+http://yek-hd.net:1795/02042019/02042019/25121
+#EXTINF:-1,DE: NDR HD
+http://yek-hd.net:1795/02042019/02042019/24921
+#EXTINF:-1,DE: Nick Jr
+http://yek-hd.net:1795/02042019/02042019/25086
+#EXTINF:-1,DE: Nickelodeon HD
+http://yek-hd.net:1795/02042019/02042019/25087
+#EXTINF:-1,DE: Nickelodeon Schweiz HD
+http://yek-hd.net:1795/02042019/02042019/25088
+#EXTINF:-1,DE: NITRO HD
+http://yek-hd.net:1795/02042019/02042019/24910
+#EXTINF:-1,DE: noa 4 Hamburg HD
+http://yek-hd.net:1795/02042019/02042019/24852
+#EXTINF:-1,DE: NOA 4 NORDERSTEDT HD
+http://yek-hd.net:1795/02042019/02042019/24851
+#EXTINF:-1,DE: NRJ TV HD
+http://yek-hd.net:1795/02042019/02042019/25099
+#EXTINF:-1,DE: Oberpfalz TV
+http://yek-hd.net:1795/02042019/02042019/24850
+#EXTINF:-1,DE: OK Dessau
+http://yek-hd.net:1795/02042019/02042019/24849
+#EXTINF:-1,DE: OK Koblenz
+http://yek-hd.net:1795/02042019/02042019/24848
+#EXTINF:-1,DE: OK Magdeburg
+http://yek-hd.net:1795/02042019/02042019/24847
+#EXTINF:-1,DE: OK Wernigerode
+http://yek-hd.net:1795/02042019/02042019/24845
+#EXTINF:-1,DE: Oldenburg eins TV
+http://yek-hd.net:1795/02042019/02042019/24844
+#EXTINF:-1,DE: ONE HD
+http://yek-hd.net:1795/02042019/02042019/24843
+#EXTINF:-1,DE: PHOENIX HD
+http://yek-hd.net:1795/02042019/02042019/24841
+#EXTINF:-1,DE: PLANET HD
+http://yek-hd.net:1795/02042019/02042019/24840
+#EXTINF:-1,DE: POPCORN SELECT 1 FHD
+http://yek-hd.net:1795/02042019/02042019/25035
+#EXTINF:-1,DE: POPCORN SELECT 2 FHD
+http://yek-hd.net:1795/02042019/02042019/25034
+#EXTINF:-1,DE: POPCORN SELECT 3 FHD
+http://yek-hd.net:1795/02042019/02042019/25033
+#EXTINF:-1,DE: POPCORN SELECT 4 FHD
+http://yek-hd.net:1795/02042019/02042019/25032
+#EXTINF:-1,DE: POPCORN SELECT 5 HD
+http://yek-hd.net:1795/02042019/02042019/25031
+#EXTINF:-1,DE: POPCORN SELECT 6 HD
+http://yek-hd.net:1795/02042019/02042019/25030
+#EXTINF:-1,DE: POPCORN SELECT 7 HD
+http://yek-hd.net:1795/02042019/02042019/25029
+#EXTINF:-1,DE: Pro 7 HD
+http://yek-hd.net:1795/02042019/02042019/24907
+#EXTINF:-1,DE: Pro 7 Maxx
+http://yek-hd.net:1795/02042019/02042019/24905
+#EXTINF:-1,DE: Pro7 Fun HD
+http://yek-hd.net:1795/02042019/02042019/24903
+#EXTINF:-1,DE: Punktum Südharz
+http://yek-hd.net:1795/02042019/02042019/24838
+#EXTINF:-1,DE: QVC BEAUTY & STYLE HD
+http://yek-hd.net:1795/02042019/02042019/24837
+#EXTINF:-1,DE: QVC HD
+http://yek-hd.net:1795/02042019/02042019/24836
+#EXTINF:-1,DE: Q V C HD
+http://yek-hd.net:1795/02042019/02042019/24835
+#EXTINF:-1,DE: RAN 1
+http://yek-hd.net:1795/02042019/02042019/24834
+#EXTINF:-1,DE: RBB BERLIN HD
+http://yek-hd.net:1795/02042019/02042019/24833
+#EXTINF:-1,DE: rbb-aktuell
+http://yek-hd.net:1795/02042019/02042019/24832
+#EXTINF:-1,DE: RFH
+http://yek-hd.net:1795/02042019/02042019/24831
+#EXTINF:-1,DE: RIC
+http://yek-hd.net:1795/02042019/02042019/24829
+#EXTINF:-1,DE: RTL Crime
+http://yek-hd.net:1795/02042019/02042019/24912
+#EXTINF:-1,DE: RTL HD
+http://yek-hd.net:1795/02042019/02042019/24920
+#EXTINF:-1,DE: RTL II HD
+http://yek-hd.net:1795/02042019/02042019/24916
+#EXTINF:-1,DE: RTL Living HD
+http://yek-hd.net:1795/02042019/02042019/24914
+#EXTINF:-1,DE: RTL Passion
+http://yek-hd.net:1795/02042019/02042019/24913
+#EXTINF:-1,DE: RTL Plus
+http://yek-hd.net:1795/02042019/02042019/24917
+#EXTINF:-1,DE: Sat 1
+http://yek-hd.net:1795/02042019/02042019/24898
+#EXTINF:-1,DE: Sat 1 Emotions HD
+http://yek-hd.net:1795/02042019/02042019/24896
+#EXTINF:-1,DE: Sat 1 Gold
+http://yek-hd.net:1795/02042019/02042019/24897
+#EXTINF:-1,DE: SAT 1 GOLD HD
+http://yek-hd.net:1795/02042019/02042019/24828
+#EXTINF:-1,DE: SAT 1 HD
+http://yek-hd.net:1795/02042019/02042019/24827
+#EXTINF:-1,DE: SAT 3 HD
+http://yek-hd.net:1795/02042019/02042019/24826
+#EXTINF:-1,DE: Sixx HD
+http://yek-hd.net:1795/02042019/02042019/24894
+#EXTINF:-1,DE: Sky 1 HD
+http://yek-hd.net:1795/02042019/02042019/24879
+#EXTINF:-1,DE: Sky Arts HD
+http://yek-hd.net:1795/02042019/02042019/24878
+#EXTINF:-1,DE: Sky Atlantic FHD
+http://yek-hd.net:1795/02042019/02042019/24999
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://yek-hd.net:1795/02042019/02042019/25020
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://yek-hd.net:1795/02042019/02042019/25017
+#EXTINF:-1,DE: Sky Cinema Action FHD
+http://yek-hd.net:1795/02042019/02042019/25006
+#EXTINF:-1,DE: Sky Cinema Comedy FHD
+http://yek-hd.net:1795/02042019/02042019/25008
+#EXTINF:-1,DE: Sky Cinema Emotion FHD
+http://yek-hd.net:1795/02042019/02042019/25002
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://yek-hd.net:1795/02042019/02042019/25011
+#EXTINF:-1,DE: Sky Cinema Hits FHD
+http://yek-hd.net:1795/02042019/02042019/25015
+#EXTINF:-1,DE: Sky Cinema WESTERN
+http://yek-hd.net:1795/02042019/02042019/25000
+#EXTINF:-1,DE: Sky Krimi
+http://yek-hd.net:1795/02042019/02042019/24997
+#EXTINF:-1,DE: Sky Select 1 FHD
+http://yek-hd.net:1795/02042019/02042019/24994
+#EXTINF:-1,DE: Sky Select 2 FHD
+http://yek-hd.net:1795/02042019/02042019/24993
+#EXTINF:-1,DE: Sky Select 3 FHD
+http://yek-hd.net:1795/02042019/02042019/24992
+#EXTINF:-1,DE: Sky Select 3D Live
+http://yek-hd.net:1795/02042019/02042019/24995
+#EXTINF:-1,DE: Sky Select 4 FHD
+http://yek-hd.net:1795/02042019/02042019/24991
+#EXTINF:-1,DE: Sky Select 5 FHD
+http://yek-hd.net:1795/02042019/02042019/24990
+#EXTINF:-1,DE: Sky Select 6 FHD
+http://yek-hd.net:1795/02042019/02042019/24989
+#EXTINF:-1,DE: Sky Select 7 FHD
+http://yek-hd.net:1795/02042019/02042019/24988
+#EXTINF:-1,DE: Sky Select 8 FHD
+http://yek-hd.net:1795/02042019/02042019/24987
+#EXTINF:-1,DE: Sky Select 9 FHD
+http://yek-hd.net:1795/02042019/02042019/24986
+#EXTINF:-1,DE: Sky Select 10 FHD
+http://yek-hd.net:1795/02042019/02042019/24985
+#EXTINF:-1,DE: Sky Select 11 FHD
+http://yek-hd.net:1795/02042019/02042019/24984
+#EXTINF:-1,DE: Sky Select 12 FHD
+http://yek-hd.net:1795/02042019/02042019/24983
+#EXTINF:-1,DE: Sky Select Vitrine
+http://yek-hd.net:1795/02042019/02042019/24996
+#EXTINF:-1,DE: Sky Sport 1
+http://yek-hd.net:1795/02042019/02042019/24970
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://yek-hd.net:1795/02042019/02042019/24980
+#EXTINF:-1,DE: Sky Sport 2
+http://yek-hd.net:1795/02042019/02042019/24969
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://yek-hd.net:1795/02042019/02042019/24979
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://yek-hd.net:1795/02042019/02042019/24978
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://yek-hd.net:1795/02042019/02042019/24977
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://yek-hd.net:1795/02042019/02042019/24976
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://yek-hd.net:1795/02042019/02042019/24975
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://yek-hd.net:1795/02042019/02042019/24974
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://yek-hd.net:1795/02042019/02042019/24973
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://yek-hd.net:1795/02042019/02042019/24972
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://yek-hd.net:1795/02042019/02042019/24971
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://yek-hd.net:1795/02042019/02042019/24981
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://yek-hd.net:1795/02042019/02042019/24966
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 SD
+http://yek-hd.net:1795/02042019/02042019/24956
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://yek-hd.net:1795/02042019/02042019/24965
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 SD
+http://yek-hd.net:1795/02042019/02042019/24955
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://yek-hd.net:1795/02042019/02042019/24964
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 SD
+http://yek-hd.net:1795/02042019/02042019/24954
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://yek-hd.net:1795/02042019/02042019/24963
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 SD
+http://yek-hd.net:1795/02042019/02042019/24953
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://yek-hd.net:1795/02042019/02042019/24962
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 SD
+http://yek-hd.net:1795/02042019/02042019/24952
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://yek-hd.net:1795/02042019/02042019/24961
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
+http://yek-hd.net:1795/02042019/02042019/24960
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://yek-hd.net:1795/02042019/02042019/24959
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
+http://yek-hd.net:1795/02042019/02042019/24958
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
+http://yek-hd.net:1795/02042019/02042019/24957
+#EXTINF:-1,DE: SONNEN KLAR HD
+http://yek-hd.net:1795/02042019/02042019/24825
+#EXTINF:-1,DE: Sky Sport News HD
+http://yek-hd.net:1795/02042019/02042019/24982
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://yek-hd.net:1795/02042019/02042019/25125
+#EXTINF:-1,DE: SPORT 1 US HD
+http://yek-hd.net:1795/02042019/02042019/24941
+#EXTINF:-1,DE: SPORT1 HD
+http://yek-hd.net:1795/02042019/02042019/24943
+#EXTINF:-1,DE: Sportdigital HD
+http://yek-hd.net:1795/02042019/02042019/24944
+#EXTINF:-1,DE: SR HD
+http://yek-hd.net:1795/02042019/02042019/24824
+#EXTINF:-1,DE: SUPER RTL FHD
+http://yek-hd.net:1795/02042019/02042019/24911
+#EXTINF:-1,DE: SWR BW HD
+http://yek-hd.net:1795/02042019/02042019/24926
+#EXTINF:-1,DE: SWR Fernsehen HD
+http://yek-hd.net:1795/02042019/02042019/24927
+#EXTINF:-1,DE: Tagesschau 24 HD
+http://yek-hd.net:1795/02042019/02042019/24823
+#EXTINF:-1,DE: Tele 5 HD
+http://yek-hd.net:1795/02042019/02042019/24876
+#EXTINF:-1,DE: Tide TV
+http://yek-hd.net:1795/02042019/02042019/24821
+#EXTINF:-1,DE: TLC HD
+http://yek-hd.net:1795/02042019/02042019/24820
+#EXTINF:-1,DE: Toggo Plus
+http://yek-hd.net:1795/02042019/02042019/25098
+#EXTINF:-1,DE: Travel Channel HD
+http://yek-hd.net:1795/02042019/02042019/25111
+#EXTINF:-1,DE: TRP 1
+http://yek-hd.net:1795/02042019/02042019/24819
+#EXTINF:-1,DE: TV Oberpfalz
+http://yek-hd.net:1795/02042019/02042019/24818
+#EXTINF:-1,DE: Universal Channel HD
+http://yek-hd.net:1795/02042019/02042019/24883
+#EXTINF:-1,DE: VIVA/COMEDY CENTRAL
+http://yek-hd.net:1795/02042019/02042019/25077
+#EXTINF:-1,DE: VOX HD
+http://yek-hd.net:1795/02042019/02042019/24909
+#EXTINF:-1,DE: WDR HD
+http://yek-hd.net:1795/02042019/02042019/24929
+#EXTINF:-1,DE: WELT HD
+http://yek-hd.net:1795/02042019/02042019/24888
+#EXTINF:-1,DE: Welt Der Wunder
+http://yek-hd.net:1795/02042019/02042019/25119
+#EXTINF:-1,DE: WMZ TV
+http://yek-hd.net:1795/02042019/02042019/24814
+#EXTINF:-1,DE: XITE HD
+http://yek-hd.net:1795/02042019/02042019/24813
+#EXTINF:-1,DE: ZDF HD
+http://yek-hd.net:1795/02042019/02042019/24931
+#EXTINF:-1,DE: ZDF info HD
+http://yek-hd.net:1795/02042019/02042019/24932
+#EXTINF:-1,DE: Zee One Deutschland
+http://yek-hd.net:1795/02042019/02042019/24812
+#EXTINF:-1,DE: Zee One FHD
+http://yek-hd.net:1795/02042019/02042019/24811
+#EXTINF:-1,DE: Zee one HD
+http://yek-hd.net:1795/02042019/02042019/24877
+#EXTINF:-1,DE: ZMAXX HD
+http://yek-hd.net:1795/02042019/02042019/24810
+#EXTINF:-1,DE: Baden TV
+http://yek-hd.net:1795/02042019/02042019/24886
